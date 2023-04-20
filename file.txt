@@ -1,0 +1,4 @@
+Hello
+welcome to github repositoty
+File edited in git hub
+will check in the local repository whether it is updated in the git bash or not
